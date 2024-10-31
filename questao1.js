@@ -1,7 +1,5 @@
 const prompt = require('prompt-sync')();
 
-const Vertice = require('./Vertice');
-
 const { obterCoordenadas } = require('./Coordenadas.js');
 
 function main() {
